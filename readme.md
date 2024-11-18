@@ -3,7 +3,7 @@
 一个解决键盘连发问题的实用小工具，特别适用于KVM等设备导致的连发按键问题。  
 A practical tool to prevent keyboard key repetition issues, especially useful for KVM-related key repeat problems.
 
-*gpt4o+o1改了两个小时没该对，claude 3.5 sonnet几分钟就做好了。*  
+*gpt4o+o1改了两个小时没改对，claude 3.5 sonnet几分钟就做好了。*  
 *Spent two hours with GPT4 without success, Claude 3.5 Sonnet solved it in minutes.*
 
 ## 使用说明 / Usage
